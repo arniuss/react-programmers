@@ -1,0 +1,29 @@
+{
+    "programmers": [
+        {
+            "id": 1,
+            "name": "Jan Novák",
+            "level": "Senior"
+        },
+        {
+            "id": 2,
+            "name": "Petr Svoboda",
+            "level": "Junior"
+        },
+        {
+            "id": 3,
+            "name": "Anna Dvořáková",
+            "level": "Junior"
+        },
+        {
+            "id": 4,
+            "name": "Lucie Procházková",
+            "level": "Senior"
+        },
+        {
+            "id": 5,
+            "name": "Martin Horák",
+            "level": "Junior"
+        }
+    ]
+}

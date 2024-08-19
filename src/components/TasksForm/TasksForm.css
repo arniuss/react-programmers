@@ -1,0 +1,20 @@
+.tasks-form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+}
+.tasks-container {
+    text-align: center;
+}
+input, button {
+    height: 2rem;
+}
+
+button.valid {
+    background-color: green;
+  }
+  
+  button.invalid {
+    background-color: red;
+  }

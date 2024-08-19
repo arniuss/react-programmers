@@ -1,0 +1,10 @@
+.programmer-form{
+    display: flex;
+    width: 500px;
+    margin: 20px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+input, select, button {
+    height: 2rem;
+}
